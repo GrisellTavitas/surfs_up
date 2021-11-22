@@ -14,7 +14,7 @@ So what we would do, is to present all the results related with the climate in t
 ![June_summary_statistics](https://user-images.githubusercontent.com/90433064/142741743-a276d7f2-bfc4-47f0-9d1b-10e2309ca8db.png)
 
 - December summary statistics
-- ![December_summary_statistics](https://user-images.githubusercontent.com/90433064/142741829-2e3d8c4f-cacb-4c9e-84d2-6df5e6c3f64c.png)
+![December_summary_statistics](https://user-images.githubusercontent.com/90433064/142792576-a4568444-da4a-4e5e-a5bd-6ee147ed5612.png)
 
 Based on those statistics, we could see that there is not a relevant difference on the weather between those two months, for example:
 
@@ -29,4 +29,13 @@ Based on those statistics, we could see that there is not a relevant difference 
 
 ![comparison](https://user-images.githubusercontent.com/90433064/142741840-3c930b20-5d7d-4a32-b1a9-b8cace0273d9.png)
 
-Taking into account the temperature for these two months, it seems to be a pretty good idea, to open a surf and shake shop.  
+Taking into account the temperature for these two months, it seems to be a pretty good idea, to open a surf and shake shop; as we noticed during those two months remains
+a constant comfordable temperature for the purpose of the business. 
+
+Nevertheless, we should consider as well some other details and analysis that are fundamental for this business too, like the wind speed, the significant wave height prediction and the precipitation analysis for those two months. We should show an analysis like this next image, and having in mind that W. Avi had already an experience investing in a surf shop before, this would be a very important and serious subject to contemplate.
+
+![Oahu, HI](https://user-images.githubusercontent.com/90433064/142792090-414e28fc-17e2-4b94-9123-6242174d5656.png)
+
+According to this next table, we could see if there is any risk to have a drop on sales, or even close the shop during a certain period of time, based on the weather analysis, specially in the intensity of precipitation. 
+
+![Precipitation_intensity](https://user-images.githubusercontent.com/90433064/142792231-a3e9ca64-85ed-4a2f-a269-2275f302f5eb.png)
